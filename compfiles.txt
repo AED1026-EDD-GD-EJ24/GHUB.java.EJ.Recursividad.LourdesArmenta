@@ -1,3 +1,4 @@
 ./miPrincipal/Principal.java
 ./miPrincipal/AppLadrillos.java
+./miPrincipal/AppFactorial.java
 ./miTest/AppTest.java

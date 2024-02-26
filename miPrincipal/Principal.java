@@ -12,6 +12,7 @@ public class Principal {
             System.out.println("       RECURSIVIDAD      ");
             System.out.println("*************************");
             System.out.println("1) LADRILLOS");
+            System.out.println("2) Factorial");
             System.out.println("            ");
             System.out.println("0) SALIR");
             System.out.print("Selecciona opción:");
@@ -20,6 +21,9 @@ public class Principal {
             switch (opc){
             case 1:
                AppLadrillos.menu();
+               break;
+            case 2:
+               AppFactorial.menu();
                break;
             
                
